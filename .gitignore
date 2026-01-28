@@ -1,0 +1,12 @@
+/.phpunit.cache
+/.editorconfig
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+.DS_Store
+/.fleet
+/.idea
+/.vscode
+/setup/db_data
+/nbproject
